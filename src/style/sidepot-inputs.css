@@ -1,0 +1,3 @@
+.sidepot-participants-multiselect [class*="ValueContainer"] > div {
+    width: unset !important;
+}

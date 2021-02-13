@@ -1,0 +1,12 @@
+.accordion .trash {
+    float: right;
+}
+
+.accordion .active {
+    background: #f6f8ff  !important;
+}
+
+.accordion .column {
+    padding-top: 0 !important;
+    padding-bottom: 0 !important;
+}
